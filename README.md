@@ -98,15 +98,21 @@ graph TD
     <td width="50%">
       <h3 align="center" style="color:#00ffff; text-shadow: 0 0 8px #00ffff">Object Detection System</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/coxQHKMSYxwQNxUQ7R/giphy.gif" width="90%"/>
+        <img src="https://media.giphy.com/media/coxQHKMSYxwQNxUQ7R/giphy.gif" width="90%" alt="Object Detection" onerror="this.style.display='none'"/>
         <p style="color:#ffffff">Real-time detection using YOLO and Flask</p>
+        <div style="background: linear-gradient(45deg, #00ffff, #ff00ff); padding: 20px; border-radius: 10px; margin: 10px;">
+          <p style="color:#000; font-weight: bold; margin:0;">🚀 AI-Powered Detection</p>
+        </div>
       </div>
     </td>
     <td width="50%">
       <h3 align="center" style="color:#ff00ff; text-shadow: 0 0 8px #ff00ff">AI Web Dashboard</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90%"/>
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90%" alt="AI Dashboard" onerror="this.style.display='none'"/>
         <p style="color:#ffffff">Interactive dashboard with live predictions</p>
+        <div style="background: linear-gradient(45deg, #ff00ff, #00ffff); padding: 20px; border-radius: 10px; margin: 10px;">
+          <p style="color:#000; font-weight: bold; margin:0;">📊 Real-time Analytics</p>
+        </div>
       </div>
     </td>
   </tr>
