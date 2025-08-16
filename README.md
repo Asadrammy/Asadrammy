@@ -88,12 +88,7 @@ graph TD
 <img src="https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 
 <!-- Snake Animation -->
-<img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-<!-- Snake Animation Link -->
-<a href="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</a>
+![Snake Animation](https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <div align="center">
