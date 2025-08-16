@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Gradient Header -->
+<!-- Animated Gradient Header with Contrast Text -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff5500&height=200&section=header&text=Asad%20Rammy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header"/>
 
-<!-- Typing Animation -->
+<!-- High-Contrast Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&width=800&height=100&lines=Full-Stack+Developer;AI%2FML+Specialist;Building+Intelligent+Web+Solutions" alt="Typing Animation" />
 
 <!-- Floating Developer GIF -->
@@ -33,125 +33,103 @@ graph TD
     style B fill:#0066ff,stroke:#00ffff
     style C fill:#ff5500,stroke:#ffff00
     style D fill:#00aa88,stroke:#88ff00
-## 🔥 Tech Stack
+```
 
 <div align="center">
-
+<!-- High-Contrast Tech Badges Grid -->
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <br>Python
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">Python</span>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <br>TensorFlow
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">TensorFlow</span>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-      <br>Flask
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">Flask</span>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">Laravel</span>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-      <br>OpenCV
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">OpenCV</span>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <br>Git
+      <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">MediaPipe</span>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <br>JavaScript
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">Git</span>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e"/>
+      <br><span style="color:#ffffff">JS</span>
     </td>
   </tr>
 </table>
-
 </div>
-## 📊 GitHub Stats
 
 <div align="center">
+<!-- Glowing Stats Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asadrammy&theme=github_dark" width="100%"/>
 
-<!-- Profile Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Asadrammy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadrammy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
+<!-- Animated Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadrammy&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asadrammy&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- Contrast Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asadrammy&theme=react-dark&hide_border=true)](https://github.com/Asadrammy)
-
-<!-- Snake Game Contribution Graph -->
-![Snake animation](https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake.svg)
-
+<!-- Snake Animation -->
+<img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
-## 🚀 Featured Projects
 
 <div align="center">
-
-<!-- Project 1 -->
-<a href="PROJECT1_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asadrammy&repo=REPO1_NAME&theme=radical&show_owner=true" width="45%"/>
-</a>
-
-<!-- Project 2 -->
-<a href="PROJECT2_LINK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asadrammy&repo=REPO2_NAME&theme=radical&show_owner=true" width="45%"/>
-</a>
-
-<!-- Project Cards -->
+<!-- Project Cards with Glow Effect -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔍 Object Detection</h3>
+      <h3 align="center" style="color:#00ffff; text-shadow: 0 0 8px #00ffff">Object Detection System</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/coxQHKMSYxwQNxUQ7R/giphy.gif" width="90%"/>
-        <p>Real-time object detection using YOLO and Flask</p>
-        <a href="PROJECT1_LINK">
-          <img src="https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge"/>
-        </a>
+        <p style="color:#ffffff">Real-time detection using YOLO and Flask</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 AI Dashboard</h3>
+      <h3 align="center" style="color:#ff00ff; text-shadow: 0 0 8px #ff00ff">AI Web Dashboard</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90%"/>
-        <p>Interactive AI dashboard with live predictions</p>
-        <a href="PROJECT2_LINK">
-          <img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
-        </a>
+        <p style="color:#ffffff">Interactive dashboard with live predictions</p>
       </div>
     </td>
   </tr>
 </table>
-
 </div>
-## 🌟 Connect With Me
 
 <div align="center">
-
-<!-- Social Links -->
+<!-- Glowing Social Buttons -->
 <a href="mailto:asadrammy9594@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #ff0000"/>
 </a>
 <a href="https://www.linkedin.com/in/asad-rammy-5494a9342">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #0077B5"/>
 </a>
 <a href="https://github.com/Asadrammy">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #ffffff"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+</div>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Asadrammy&color=blue&style=flat-square"/>
+<div align="center">
+<!-- Floating Animation -->
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ1h2M6QjK/giphy.gif" width="150"/>
 
+<!-- Gradient Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff5500&height=150&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
 </div>
