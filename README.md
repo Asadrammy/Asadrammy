@@ -87,8 +87,15 @@ graph TD
 <!-- Contrast Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 
-<!-- Snake Animation -->
-![Snake Animation](https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake Animation - Using a working alternative until the GitHub Action generates the file -->
+<div style="background: linear-gradient(45deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; margin: 20px; border: 2px solid #00ffff;">
+  <h3 style="color:#00ffff; text-align:center; margin-bottom:15px;">🐍 GitHub Contribution Snake</h3>
+  <p style="color:#ffffff; text-align:center; margin:0;">Loading contribution animation...</p>
+  <p style="color:#888; text-align:center; font-size:12px; margin:10px 0 0 0;">The snake animation will appear here once the GitHub Action runs</p>
+</div>
+
+<!-- Alternative Snake Animation using a different service -->
+<img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="display:none;" onload="this.style.display='block';" onerror="this.style.display='none';"/>
 </div>
 
 <div align="center">
