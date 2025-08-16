@@ -1,48 +1,78 @@
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Asad%20Rammy&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Flask%20%26%20Laravel%20%7C%20AI%20Explorer&descSize=20&descAlignY=55)
+
+---
+
+## About Me  
+
+I am **Asad Rammy**, a **Full-Stack Developer** specializing in **Flask (Python)** and **Laravel (PHP)**.  
+My passion lies in **Machine Learning and Artificial Intelligence**, where I explore how code can shape the future.  
+
+I believe every line of code carries the potential to transform ideas into reality.  
+For me, development is not just about building — it is about **inspiring progress and creating lasting impact**.  
+
+---
+
+## Tech Stack  
+
 <div align="center">
 
-<!-- Animated Gradient Header with Contrast Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff5500&height=200&section=header&text=Asad%20Rammy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Header"/>
-
-<!-- High-Contrast Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&width=800&height=100&lines=Full-Stack+Developer;AI%2FML+Specialist;Building+Intelligent+Web+Solutions" alt="Typing Animation" />
-
-<!-- Floating Developer GIF -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 </div>
 
 ---
 
-## 🎨 About Me
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {
-  'primaryColor': '#2a0a4a',
-  'edgeLabelBackground':'#1a1a2e',
-  'tertiaryColor': '#ff00ff',
-  'textColor': '#ffffff'
-}}}%%
-graph TD
-    A[["💻 Passionate Developer<br><font size=2>#AI #Web #Vision</font>"]] --> B[Flask/Laravel]
-    A --> C[TensorFlow]
-    A --> D[OpenCV]
-    B --> E[Web Apps]
-    C --> F[Neural Nets]
-    D --> G[Real-time AI]
-    style A fill:#5e00aa,stroke:#ff00ff,stroke-width:4px,color:#ffffff
-    style B fill:#0066ff,stroke:#00ffff
-    style C fill:#ff5500,stroke:#ffff00
-    style D fill:#00aa88,stroke:#88ff00
-<div align="center"><!-- High-Contrast Tech Badges Grid --><table> <tr> <td align="center" width="120"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">Python</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">TensorFlow</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">Flask</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">Laravel</span> </td> </tr> <tr> <td align="center" width="120"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">OpenCV</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">MediaPipe</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e"/> <br><span style="color:#ffffff">Git</span> </td> <td align="center" width="120"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e"/> <br><span style="color:#ffffff">JS</span> </td> </tr> </table></div>
-<div align="center"><!-- Glowing Stats Cards --><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asadrammy&theme=github_dark" width="100%"/><!-- Animated Graph -->
-https://github-readme-activity-graph.vercel.app/graph?username=Asadrammy&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true
+## How to Reach Me  
 
-<!-- Contrast Streak Stats -->
-https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff
+📧 Email: [asadrammy9594@gmail.com](mailto:asadrammy9594@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/asad-rammy-5494a9342](https://www.linkedin.com/in/asad-rammy-5494a9342)  
+💻 GitHub: [github.com/Asadrammy](https://github.com/Asadrammy)  
 
-<!-- Snake Animation -->
-https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg
+---
+
+## What I Offer  
+
+- Building intelligent **AI and Machine Learning systems**  
+- **Full-Stack solutions** with Flask & Laravel  
+- Real-time **Computer Vision applications**  
+- Scalable **backend + frontend integration**  
+
+---
+
+## What I Seek  
+
+- Collaborations where **AI meets Full-Stack**  
+- Advanced learning in **Deep Learning & Neural Networks**  
+- Opportunities to contribute to **open-source AI communities**  
+
+---
+
+## GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asadrammy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6C6C&text_color=FFFFFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadrammy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Asadrammy&theme=radical&hide_border=true&background=0D1117&ring=FF6C6C&fire=FF6C6C&currStreakLabel=58A6FF)  
 
 </div>
-<div align="center"><!-- Project Cards with Glow Effect --><table> <tr> <td width="50%"> <h3 align="center" style="color:#00ffff; text-shadow: 0 0 8px #00ffff">Object Detection System</h3> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z5d3JtY2N1b2J6dGJ0bGJ4dW5zZ2x4b2R4Z3R1b2h0eGJ1d3J5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKMSYxwQNxUQ7R/giphy.gif" width="90%"/> <p style="color:#ffffff">Real-time detection using YOLO and Flask</p> </div> </td> <td width="50%"> <h3 align="center" style="color:#ff00ff; text-shadow: 0 0 8px #ff00ff">AI Web Dashboard</h3> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J2YzVqYzV6dW5sZ2V6bDZ6eGQ0bGx1Z2VqZ2J6eW5xY3Z0dGZzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="90%"/> <p style="color:#ffffff">Interactive dashboard with live predictions</p> </div> </td> </tr> </table></div>
-<div align="center"><!-- Glowing Social Buttons --><a href="mailto:asadrammy9594@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #ff0000"/> </a><a href="https://www.linkedin.com/in/asad-rammy-5494a9342"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #0077B5"/> </a><a href="https://github.com/Asadrammy"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" style="box-shadow: 0 0 8px #ffffff"/> </a></div>
-<div align="center"><!-- Floating Animation --><img src="https://media.giphy.com/media/3o7TKsQ8UQ1h2M6QjK/giphy.gif" width="150"/><!-- Gradient Footer --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff5500&height=150&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer"/></div> ```
+
+---
+
+## Final Note  
+
+*"Technology is not just about solving problems; it is about creating possibilities.  
+Through AI and Full-Stack development, I aim to craft solutions that inspire, connect, and endure."*  
+
+---
+
+<!-- Animated Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
