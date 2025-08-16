@@ -89,6 +89,11 @@ graph TD
 
 <!-- Snake Animation -->
 <img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+<!-- Snake Animation Link -->
+<a href="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/Asadrammy/Asadrammy/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</a>
 </div>
 
 <div align="center">
