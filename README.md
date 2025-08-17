@@ -146,20 +146,20 @@ graph TD
 
 </div>
 
-## 🌟 Currently Working On
+## Currently Working On
 
-- 🔧 **Advanced AI Models** - Machine learning for computer vision and NLP
-- 🌐 **Full-Stack Web Apps** - Scalable applications with AI integration
-- 👁️ **Computer Vision** - Real-time detection and image processing
+- **Advanced AI Models** - Machine learning for computer vision and NLP
+- **Full-Stack Web Apps** - Scalable applications with AI integration  
+- **Computer Vision** - Real-time detection and image processing
 
-## 💡 Fun Facts
+## About Me
 
-- 🎮 Gaming enthusiast who finds inspiration in game design
-- ☕ Coffee-powered developer who codes best during late-night sessions
-- 📚 Always learning new technologies and staying updated with AI trends
-- 🌍 Passionate about creating technology that makes a positive impact
+- Gaming enthusiast who finds inspiration in game design
+- Coffee-powered developer who codes best during late-night sessions
+- Always learning new technologies and staying updated with AI trends
+- Passionate about creating technology that makes a positive impact
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
@@ -171,11 +171,11 @@ graph TD
 
 </div>
 
-**📞 Direct Contact:** +92 314 0479594
+**Direct Contact:** +92 314 0479594
 
-## 🚀 Ready to Build Something Amazing?
+## Ready to Build Something Amazing?
 
-I'm always excited to collaborate on innovative projects involving AI, machine learning, and cutting-edge web technologies. Let's turn your ideas into reality! 💡✨
+I'm always excited to collaborate on innovative projects involving AI, machine learning, and cutting-edge web technologies. Let's turn your ideas into reality!
 
 **Areas of Expertise:** AI/ML Projects • Web Development • Computer Vision
 
@@ -189,9 +189,9 @@ I'm always excited to collaborate on innovative projects involving AI, machine l
 <!-- Final Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff5500&height=150&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
 
-### 🌈 Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-*Feel free to explore my repositories and connect with me. Let's build something amazing together!* 💻 🚀
+*Feel free to explore my repositories and connect with me. Let's build something amazing together!*
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
