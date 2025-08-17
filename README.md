@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Asad Rammy!
-
 <div align="center">
 
 <!-- Animated Gradient Header with Contrast Text -->
