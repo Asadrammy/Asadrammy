@@ -89,46 +89,13 @@ graph TD
 <!-- Contrast Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 
-## 🚀 Skills Progress
-
-<div align="center">
-
-| **Skill** | **Level** | **Progress** |
-|-----------|-----------|--------------|
-| **Python & AI/ML** | ⭐⭐⭐⭐⭐ | ██████████ 100% |
-| **Web Development** | ⭐⭐⭐⭐ | ████████░░ 80% |
-| **Computer Vision** | ⭐⭐⭐⭐ | ████████░░ 80% |
-| **Database Management** | ⭐⭐⭐⭐ | ████████░░ 80% |
-| **Git & Version Control** | ⭐⭐⭐⭐⭐ | ██████████ 100% |
-
-</div>
-
 ## 🏆 Achievements
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="10+ Projects"/>
-      <br><br>
-      <strong>🏆 10+ Projects</strong><br>
-      <small>Successfully delivered web and AI solutions</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AI/ML-Expert-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Expert"/>
-      <br><br>
-      <strong>🤖 AI/ML Expert</strong><br>
-      <small>Specialized in computer vision and neural networks</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack"/>
-      <br><br>
-      <strong>🌐 Full-Stack</strong><br>
-      <small>End-to-end web application development</small>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="10+ Projects"/>
+<img src="https://img.shields.io/badge/AI/ML-Expert-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Expert"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack"/>
 
 </div>
 
@@ -181,39 +148,16 @@ graph TD
 
 ## 🌟 Currently Working On
 
-<div align="center">
+- 🔧 **Advanced AI Models** - Machine learning for computer vision and NLP
+- 🌐 **Full-Stack Web Apps** - Scalable applications with AI integration
+- 👁️ **Computer Vision** - Real-time detection and image processing
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Advanced%20AI-Models-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Advanced AI"/>
-      <br><br>
-      <strong>🔧 Advanced AI Models</strong><br>
-      <small>Developing sophisticated machine learning models for computer vision and natural language processing</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Full--Stack-Web%20Apps-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack"/>
-      <br><br>
-      <strong>🌐 Full-Stack Web Apps</strong><br>
-      <small>Building scalable web applications with modern frameworks, integrating AI capabilities</small>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Computer%20Vision-Real--time-green?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-      <br><br>
-      <strong>👁️ Computer Vision</strong><br>
-      <small>Creating real-time object detection and image processing systems using OpenCV and MediaPipe</small>
-    </td>
-  </tr>
-</table>
+## 💡 Fun Facts
 
-</div>
-
-## 💡 Fun Facts About Me
-
-- 🎮 **Gaming Enthusiast** - I find inspiration in game design and user experience
-- ☕ **Coffee-Powered Developer** - I code best during late-night sessions
-- 📚 **Continuous Learner** - Always learning new technologies and staying updated with AI trends
-- 🌍 **Impact-Driven** - Passionate about creating technology that makes a positive impact
+- 🎮 Gaming enthusiast who finds inspiration in game design
+- ☕ Coffee-powered developer who codes best during late-night sessions
+- 📚 Always learning new technologies and staying updated with AI trends
+- 🌍 Passionate about creating technology that makes a positive impact
 
 ## 📫 Let's Connect!
 
@@ -222,22 +166,18 @@ graph TD
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadrammy9594@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-rammy-5494a9342)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asadrammy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923140479594)
+[![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white)](tel:+923140479594)
 
 </div>
+
+**📞 Direct Contact:** +92 314 0479594
 
 ## 🚀 Ready to Build Something Amazing?
 
-I'm always excited to collaborate on innovative projects, especially those involving AI, machine learning, and cutting-edge web technologies. Let's turn your ideas into reality! 💡✨
+I'm always excited to collaborate on innovative projects involving AI, machine learning, and cutting-edge web technologies. Let's turn your ideas into reality! 💡✨
 
-**Areas of Expertise:**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI/ML%20Projects-Neural%20Networks-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Projects"/>
-<img src="https://img.shields.io/badge/Web%20Development-Full--Stack-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Development"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Real--time-green?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-
-</div>
+**Areas of Expertise:** AI/ML Projects • Web Development • Computer Vision
 
 ---
 
