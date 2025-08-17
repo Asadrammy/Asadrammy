@@ -89,63 +89,124 @@ graph TD
 <!-- Contrast Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=Asadrammy&theme=highcontrast&hide_border=true&date_format=j%2520M%255B%2520Y%255D&ring=00ffff&fire=ff00ff&currStreakNum=ffffff" alt="GitHub Streak"/>
 
-<!-- Skills Progress Section -->
 ## 🚀 Skills Progress
 
-| Skill | Level |
-|-------|-------|
-| **Python & AI/ML** | ⭐⭐⭐⭐⭐ |
-| **Web Development** | ⭐⭐⭐⭐ |
-| **Computer Vision** | ⭐⭐⭐⭐ |
-| **Database Management** | ⭐⭐⭐⭐ |
-| **Git & Version Control** | ⭐⭐⭐⭐⭐ |
+<div align="center">
 
-<!-- Achievement Cards -->
-## 🏆 Achievements
-
-| 🏆 **10+ Projects** | 🤖 **AI/ML Expert** | 🌐 **Full-Stack** |
-|---------------------|---------------------|-------------------|
-| Successfully delivered web and AI solutions | Specialized in computer vision and neural networks | End-to-end web application development |
+| **Skill** | **Level** | **Progress** |
+|-----------|-----------|--------------|
+| **Python & AI/ML** | ⭐⭐⭐⭐⭐ | ██████████ 100% |
+| **Web Development** | ⭐⭐⭐⭐ | ████████░░ 80% |
+| **Computer Vision** | ⭐⭐⭐⭐ | ████████░░ 80% |
+| **Database Management** | ⭐⭐⭐⭐ | ████████░░ 80% |
+| **Git & Version Control** | ⭐⭐⭐⭐⭐ | ██████████ 100% |
 
 </div>
 
+## 🏆 Achievements
+
 <div align="center">
-<!-- Project Cards with Glow Effect -->
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Object Detection System</h3>
-      <p align="center">
-        Real-time detection using YOLO and Flask
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> Python, TensorFlow, OpenCV, Flask
-      </p>
-      <p align="center">
-        🚀 **AI-Powered Detection**
-      </p>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="10+ Projects"/>
+      <br><br>
+      <strong>🏆 10+ Projects</strong><br>
+      <small>Successfully delivered web and AI solutions</small>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 AI Web Dashboard</h3>
-      <p align="center">
-        Interactive dashboard with live predictions
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> Python, Flask, JavaScript, TensorFlow
-      </p>
-      <p align="center">
-        📊 **Real-time Analytics**
-      </p>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AI/ML-Expert-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Expert"/>
+      <br><br>
+      <strong>🤖 AI/ML Expert</strong><br>
+      <small>Specialized in computer vision and neural networks</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack"/>
+      <br><br>
+      <strong>🌐 Full-Stack</strong><br>
+      <small>End-to-end web application development</small>
     </td>
   </tr>
 </table>
+
+</div>
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Object%20Detection-AI%20Powered-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Object Detection"/>
+        <br><br>
+        <h3>🤖 Object Detection System</h3>
+        <p><strong>Real-time detection using YOLO and Flask</strong></p>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active"/>
+        <br><br>
+        🚀 **AI-Powered Detection**
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI%20Dashboard-Real--time-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="AI Dashboard"/>
+        <br><br>
+        <h3>📊 AI Web Dashboard</h3>
+        <p><strong>Interactive dashboard with live predictions</strong></p>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Active"/>
+        <br><br>
+        📊 **Real-time Analytics**
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🌟 Currently Working On
 
-- 🔧 **Advanced AI Models** - Developing sophisticated machine learning models for computer vision and natural language processing
-- 🌐 **Full-Stack Web Apps** - Building scalable web applications with modern frameworks, integrating AI capabilities
-- 👁️ **Computer Vision** - Creating real-time object detection and image processing systems using OpenCV and MediaPipe
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Advanced%20AI-Models-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Advanced AI"/>
+      <br><br>
+      <strong>🔧 Advanced AI Models</strong><br>
+      <small>Developing sophisticated machine learning models for computer vision and natural language processing</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Full--Stack-Web%20Apps-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack"/>
+      <br><br>
+      <strong>🌐 Full-Stack Web Apps</strong><br>
+      <small>Building scalable web applications with modern frameworks, integrating AI capabilities</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Computer%20Vision-Real--time-green?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+      <br><br>
+      <strong>👁️ Computer Vision</strong><br>
+      <small>Creating real-time object detection and image processing systems using OpenCV and MediaPipe</small>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 💡 Fun Facts About Me
 
@@ -169,9 +230,14 @@ graph TD
 I'm always excited to collaborate on innovative projects, especially those involving AI, machine learning, and cutting-edge web technologies. Let's turn your ideas into reality! 💡✨
 
 **Areas of Expertise:**
-- 🤖 **AI/ML Projects** - Neural networks, computer vision, predictive analytics
-- 🌐 **Web Development** - Full-stack applications, responsive design
-- 👁️ **Computer Vision** - Real-time detection, image processing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI/ML%20Projects-Neural%20Networks-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Projects"/>
+<img src="https://img.shields.io/badge/Web%20Development-Full--Stack-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Development"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Real--time-green?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+</div>
 
 ---
 
